@@ -1,0 +1,10 @@
+.underline {
+  position: relative;
+}
+.underline::before {
+  content: " ";
+  position: absolute;
+  bottom: -10px;
+  width: 130px;
+  border-bottom: 1px solid #000;
+}

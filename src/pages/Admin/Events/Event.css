@@ -1,0 +1,18 @@
+.event {
+    margin-top: 7rem;
+}
+.event .header-title {
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.event .create-events {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.event .row .col-md-4 .card img {
+    height: 350px;
+    width: 300px;
+    padding: 1rem;
+}
